@@ -1,7 +1,24 @@
 {
   "name": "canto-stats",
-  "private": true,
   "dependencies": {
     "bootstrap": "~3.2.0"
-  }
+  },
+  "version": "0.0.0",
+  "authors": [
+    "Kim Rutherford <kmr44@cam.ac.uk>"
+  ],
+  "description": "Stats for Canto",
+  "moduleType": [
+    "amd",
+    "es6",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
