@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('cantoStatsApp')
+angular.module('chadoApp')
   .controller('MainCtrl', function ($scope, $http) {
     $scope.awesomeThings = [];
 

@@ -1,5 +1,5 @@
 {
-  "name": "canto-stats",
+  "name": "chado-app",
   "version": "0.0.0",
   "main": "server/app.js",
   "dependencies": {

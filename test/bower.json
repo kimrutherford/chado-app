@@ -1,5 +1,5 @@
 {
-  "name": "canto-stats",
+  "name": "chado-app",
   "private": true,
   "dependencies": {
     "chai": "~1.8.0",

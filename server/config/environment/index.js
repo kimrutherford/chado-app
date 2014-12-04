@@ -26,7 +26,7 @@ var all = {
 
   // Secret for session, you will want to change this and make it an environment variable
   secrets: {
-    session: 'canto-stats-secret'
+    session: 'chado-app-secret'
   },
 
   // List of user roles

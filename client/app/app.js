@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('cantoStatsApp', [
+angular.module('chadoApp', [
   'ngCookies',
   'ngResource',
   'ngSanitize',

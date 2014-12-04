@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('cantoStatsApp')
+angular.module('chadoApp')
   .factory('Modal', function ($rootScope, $modal) {
     /**
      * Opens a modal

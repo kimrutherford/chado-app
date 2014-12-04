@@ -316,7 +316,7 @@ module.exports = function (grunt) {
     ngtemplates: {
       options: {
         // This should be the name of your apps angular module
-        module: 'cantoStatsApp',
+        module: 'chadoApp',
         htmlmin: {
           collapseBooleanAttributes: true,
           collapseWhitespace: true,

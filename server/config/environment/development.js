@@ -5,7 +5,7 @@
 module.exports = {
   // MongoDB connection options
   mongo: {
-    uri: 'mongodb://localhost/cantostats-dev'
+    uri: 'mongodb://localhost/chado-app-dev'
   },
 
   seedDB: true

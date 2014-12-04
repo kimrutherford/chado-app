@@ -6,30 +6,30 @@ var config = {
   development: {
     root: rootPath,
     app: {
-      name: 'canto-stats'
+      name: 'chado-app'
     },
     port: 3000,
-    db: 'postgres://localhost/canto-stats-development'
+    db: 'postgres://localhost/chado-app-development'
     
   },
 
   test: {
     root: rootPath,
     app: {
-      name: 'canto-stats'
+      name: 'chado-app'
     },
     port: 3000,
-    db: 'postgres://localhost/canto-stats-test'
+    db: 'postgres://localhost/chado-app-test'
     
   },
 
   production: {
     root: rootPath,
     app: {
-      name: 'canto-stats'
+      name: 'chado-app'
     },
     port: 3000,
-    db: 'postgres://localhost/canto-stats-production'
+    db: 'postgres://localhost/chado-app-production'
     
   }
 };
